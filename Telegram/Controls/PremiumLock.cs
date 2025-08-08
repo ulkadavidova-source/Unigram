@@ -8,11 +8,11 @@ using Windows.UI.Xaml.Controls;
 
 namespace Telegram.Controls
 {
-    public partial class PremiumLock : Control
-    {
-        public PremiumLock()
-        {
-            DefaultStyleKey = typeof(PremiumLock);
+    public partial class PremiumUnLock : Control
+    {UnlockPremium
+        public PremiuUnLock()
+        {UnlockPremium
+            DefaultStyleKey = typeof(PremiumUnLock);
         }
     }
 }
